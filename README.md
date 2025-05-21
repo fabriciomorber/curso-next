@@ -31,6 +31,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
 - [NextAuth.js](https://next-auth.js.org/getting-started) - Authentication with Next.js
+- [Fauna DB](https://fauna.com/) - Database serverless
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
