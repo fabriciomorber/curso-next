@@ -27,7 +27,7 @@ export default NextAuth({
 
       if (!email) return false
 
-      const {data, error} = await supabase
+      const {data} = await supabase
         .from('users')
         .select('id')
         .eq('email', email)
